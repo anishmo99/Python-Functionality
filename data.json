@@ -1,0 +1,567 @@
+[
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes plant and machinery",
+      "Risk":" injury / death due to collision with plant plant and machinery",
+      "Mitigation":"the work area shall be cordoned off with only essential operatives entering the working area. all machines to be used with a banksman."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes ",
+      "Risk":" injury due to incorrect use of plant ",
+      "Mitigation":"certificated operators to be used only i.e. for crane, man basket, 360\u00b0 excavator, dumper etc. (all operators to be cpcs card holders). sli to be fitted to excavator used for lifting of pipes and manholes and certification of loler testing to be provided prior to use."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes underground services",
+      "Risk":" death / injury/ damage due to collision with existing cables & services underground services",
+      "Mitigation":"refer to existing services drawings, bbus to carry out cat scan & mark any identified services. existing services to be supported across open trench. slinger signaller to make sure units is lifted into position to avoid collision with exposed stats services crossing the trench."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes overhead services",
+      "Risk":" death / injury/ damage due to collision with existing cables & services overhead services",
+      "Mitigation":"where possible, existing services will be diverted before work begins on site. multiple services will be reduced to one and raised out of work area. goal posts to be placed to remaining services where plant will pass underneath. operators to be made aware of location of overhead services."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes excavation collapse",
+      "Risk":" injury / death excavation collapse",
+      "Mitigation":"excavations in the road will be supported with sheets and frames support system. sheets will be pushed ahead of the dig. support will be installed as per approved temporary works design."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes falls into excavation",
+      "Risk":" injury/death falls into excavation",
+      "Mitigation":"excavations of any depth will have edge protection erected. fencing will be erected. ladder access will be securely tied. ladder access platform will be used. operative entering trench will wear a harness and clip onto a fall arrest block while on the ladder when the excavation is over 2m deep."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes collapse of temporary works",
+      "Risk":" injury/death collapse of temporary works",
+      "Mitigation":"the shoring system will be designed and checked by a competent person. it will be installed as per the design."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes working on operational site",
+      "Risk":" injury/death due to vehicle movements plant/wagons and motorist working on operational site",
+      "Mitigation":"all plant movements reversing vehicles all operations overseen by banks man. works area will be suitably signed & secured in accordance with advance procedures. deliveries will be planned to minimise site traffic build up. traffic management/diversion will be erected prior to the work commencing."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes noise",
+      "Risk":" hearing damage during use of compressors, pokers and air tools noise",
+      "Mitigation":"use of ear protection (plugs/muffs) for all operatives involved in operations generating noise"
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes hazardous substances & processes",
+      "Risk":" injury/burns due to exposure to cement products, fumes, dust etc. hazardous substances & processes",
+      "Mitigation":"whilst any cutting, breaking out or placement of concrete/benching is ongoing, operatives to wear correctly issued ppe; gloves, goggles, overalls, boots etc. first aid kit with eyewash to be in attendance. as \u2018working in sewers\u2019 above, maintain good hygiene prior to eating, drinking or smoking etc. coshh assessments attached to method statement to be briefed to all personnel."
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes manual handling",
+      "Risk":" injury due to lifting of lifting accessories, works materials, pipes & fittings, ironwork, rebar and formwork etc. manual handling",
+      "Mitigation":"gloves to be worn, machine assistance wherever possible and where not possible minimise load and share lifting with others. do not attempt to lift loads heavier than can be easily managed. avoid double handling. (some workers are stronger than others, however, no one is immune from injury)"
+   },
+   {
+      "Activity":"excavation and installation of 800/400/350/150 dia steel pipes lifting operations",
+      "Risk":" injury due to falling materials. lifting operations",
+      "Mitigation":"test certificates to be provided for all equipment & accessories prior to lift. lifting operations to be undertaken by trained/competent person. signaller to make sure area of lift is clear. excavator lift plan will be required for each lift performed"
+   },
+   {
+      "Activity":"vacuum excavation works striking utility services",
+      "Risk":" electrocution explosion burns injury death striking utility services",
+      "Mitigation":"permit to dig utility drawings cat scan area to be excavated and area that the unit will be sited. competent trained operatives insulated tooling/suction pipe ppe safety briefings/tool box talks manufacturer\u2019s instructions (no digging) training reviews."
+   },
+   {
+      "Activity":"vacuum excavation works flying debris",
+      "Risk":" potential major/minor injury of eyes, ears, head and body to: operatives, site personnel or members of the public damage to property flying debris",
+      "Mitigation":"isolate work area/set up exclusion zones utilization of debris nets/sound barrier competent trained operatives ppe"
+   },
+   {
+      "Activity":"vacuum excavation works movement of vehicles",
+      "Risk":" major/minor injuries \u2013 fatality, broken/ fractured bones, crushing injuries sprains, damage to property movement of vehicles",
+      "Mitigation":"adhere to site speed limits plant vehicle movement plan use of banksman/vehicle marshal reversing bleeper/camera + exclusion zones vehicle pre-use checks"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" major injury/ fatality potential damage to property stability of vacuum excavation unit whilst unloading/tipping",
+      "Mitigation":"utilization of stabilizer legs tipping exclusion zone firm level ground competent trained operator vehicle pre-use checks remote control operation"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" death / injury to personnel damage to utility services damage to property operation of vacuum excavators",
+      "Mitigation":"training/competency work area exclusion zones operator in safe location at all times safe system of works pre-use checks operation of equipment as per manufactures instruction (no digging)"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" electrocution burns death overhead power lines",
+      "Mitigation":"exclusion zone/goal posts height restriction permit to work/pre-works area assessment site briefing/vehicle route plan competent trained operator remote control operation"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" skin / eye irritation damage to environment nausea / headache slips due to spillage dermatitis refuelling",
+      "Mitigation":"correct ppe spill kits good ventilation coshh assessment"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" muscular/back injuries trapping cuts manual handling",
+      "Mitigation":"training assistance from site operatives ppe"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" injury to operator /third parties skin contamination. havs use of air tools",
+      "Mitigation":"equipment pre use checks competent trained operator ppe correct q/r couplings to air lines protective screening for 3rd parties/debris netting controlled/regulated times for use dependent upon area of works"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" death injury to operator injury to third-party damage to property people & plant interface",
+      "Mitigation":"training and competency exclusion zones safe system of works pre-start briefing for whole work team people / plant segregation designated people/plant areas inductions/pre-works briefing permits to work traffic marshall for plant movements"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" death injury to operator injury to third party damage to property live traffic on a public highway or within the works area",
+      "Mitigation":"training/competency pre-start briefing/induction safe system of work traffic management"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" collapse of excavation injury to operator death fall into excavation damage to property excavation",
+      "Mitigation":"training and competency permit to dig excavation area to be inspected periodically by a competent person during works strictly no access into excavation by vac-ex operatives vehicle to be parked no closer to excavation then the depth of the excavation"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" falls from vacuum excavator falls into excavations working at height",
+      "Mitigation":"training/ competency\u2019s edge restraint on roof edge protection on excavations fall arrest equipment and training"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" personal injury injury to others slips trips and falls",
+      "Mitigation":"clean and tidy work area training and competency correct ppe"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" damage to hearing short / long term hearing loss due to excessive exposure nuisance to third parties noise",
+      "Mitigation":"training/competency work exclusion zones sound quilts"
+   },
+   {
+      "Activity":"vacuum excavation works",
+      "Risk":" personnel injury/sickness long term illness contamination to environment contaminated excavated material",
+      "Mitigation":"soil sample/ wack test coshh assessment ppe containment plan report any ground abnormalities to site supervisor"
+   },
+   {
+      "Activity":"excavation for transformer bases plant and machinery",
+      "Risk":" injury / death due to collision with plant injury due to incorrect use of plant plant and machinery",
+      "Mitigation":"the work area shall be cordoned off with only essential operatives entering the working area. all operatives are to be briefed on the site specific pvmp all machines to be used with a banksman. driver to dismount dumper whilst being loaded. excavator operator to signal to dumper driver and banksman when dumper is loaded certificated operators to be used only i.e. for crane, man basket, 360\u00b0 excavator, dumper etc. (all operators to be cpcs card holders). sli to be fitted to excavator used for lifting of pipes and manholes and certification of loler testing to be provided prior to use."
+   },
+   {
+      "Activity":"excavation for transformer bases ",
+      "Risk":"  ",
+      "Mitigation":" "
+   },
+   {
+      "Activity":"excavation for transformer bases underground services",
+      "Risk":" death / injury/ damage due to collision with existing cables & services underground services",
+      "Mitigation":"refer to existing services drawings, bbus to carry out cat scan & mark any identified services. existing services to be supported across open trench. slinger signaller to make sure units is lifted into position to avoid collision with exposed stats services crossing the trench."
+   },
+   {
+      "Activity":"excavation for transformer bases overhead services",
+      "Risk":" death / injury/ damage due to collision with existing cables & services overhead services",
+      "Mitigation":"where possible, existing services will be diverted before work begins on site. multiple services will be reduced to one and raised out of work area. goal posts to be placed to remaining services where plant will pass underneath. operators to be made aware of location of overhead services."
+   },
+   {
+      "Activity":"excavation for transformer bases excavation collapse",
+      "Risk":" injury / death excavation collapse",
+      "Mitigation":"excavations in the verge will be benched back on three sides. excavation check sheets daily before works commence."
+   },
+   {
+      "Activity":"excavation for transformer bases falls into excavation",
+      "Risk":" injury/death falls into excavation",
+      "Mitigation":"excavations of any depth will have edge protection erected. fencing will be erected. access ramp with hand railing will be formed"
+   },
+   {
+      "Activity":"excavation for transformer bases working on operational site",
+      "Risk":" injury/death due to vehicle movements plant/wagons and motorist working on operational site",
+      "Mitigation":"all plant movements reversing vehicles all operations overseen by banks man. works area will be suitably signed & secured in accordance with advance procedures. deliveries will be planned to minimise site traffic build up. traffic management/diversion will be erected prior to the work commencing."
+   },
+   {
+      "Activity":"excavation for transformer bases noise",
+      "Risk":" hearing damage during use of machine breaker, compressor, pokers and air tools noise",
+      "Mitigation":"use of ear protection (plugs/muffs) for all operatives involved in operations generating noise"
+   },
+   {
+      "Activity":"excavation for transformer bases hazardous substances & processes",
+      "Risk":" injury/burns due to exposure to cement products, fumes, dust etc. hazardous substances & processes",
+      "Mitigation":"whilst any cutting, breaking out or placement of concrete/benching is ongoing, operatives to wear correctly issued ppe; gloves, goggles, overalls, boots etc. first aid kit with eyewash to be in attendance. as \u2018working in sewers\u2019 above, maintain good hygiene prior to eating, drinking or smoking etc. coshh assessments attached to method statement to be briefed to all personnel."
+   },
+   {
+      "Activity":"excavation for transformer bases manual handling",
+      "Risk":" injury due to lifting of lifting accessories, works materials, pipes & fittings, ironwork, rebar and formwork etc. manual handling",
+      "Mitigation":"gloves to be worn, machine assistance wherever possible and where not possible minimise load and share lifting with others. do not attempt to lift loads heavier than can be easily managed. avoid double handling. (some workers are stronger than others, however, no one is immune from injury)"
+   },
+   {
+      "Activity":"excavation for transformer bases lifting operations",
+      "Risk":" injury due to falling materials. lifting operations",
+      "Mitigation":"test certificates to be provided for all equipment & accessories prior to lift. lifting operations to be undertaken by trained/competent person. signaller to make sure area of lift is clear. excavator lift plan will be required for each lift performed"
+   },
+   {
+      "Activity":"working next to excavation",
+      "Risk":" fatality / serious injuries fall from height",
+      "Mitigation":"trench sheets will extend 1m at least above ground level to provide toe board and prevent falls from height, or edge safe fencing will be fitted to the trench sheets. access/egress will be via ladder platform, davit arm & fall arrest system tied pole ladder, where applicable. ladder to extend 5 rungs above the stepping off point. work area to be fenced using double clipped heras. all entrants will descend and ascend the ladder wearing a fall arrest harness attached to an inertia reel fall arrest block if applicable."
+   },
+   {
+      "Activity":"general work on site, various conditions",
+      "Risk":" serious injury slips, trips and falls",
+      "Mitigation":"good housekeeping and removal of debris and equipment from areas in and around space will reduce potential for slips, trips and falls. barrier off space to prevent unauthorised or accidental entry."
+   },
+   {
+      "Activity":"working in chamber",
+      "Risk":" serious injury, death confined space",
+      "Mitigation":"all persons to be confined space trained. all persons to carry a 10 minute escape set. calibrated gas detector to be continually in use. see associated confined space rams"
+   },
+   {
+      "Activity":"pressure pump and other associated plant and machinery",
+      "Risk":" injury / death due to collision with plant/public moving plant",
+      "Mitigation":"the work area shall be cordoned off with heras fencing with only essential operatives entering the working area. banksman in attendance at all times. 4m safety zone to segregate plant and people to be established, if not possible a physical barrier must be erected. pressure testing equipment must be within the 3m pressure test exclusion zone."
+   },
+   {
+      "Activity":"general lifting of equipment",
+      "Risk":" serious injuries manual handling",
+      "Mitigation":"- where possible mechanical lifting equipment is to be used. - consider the task, load and the environment. use manual handling techniques. - two person lift where required. - safety footwear and gloves to be worn - do not try to lift anything that may be outside your physical capability."
+   },
+   {
+      "Activity":"operation of generators",
+      "Risk":" irreversible health effects noise",
+      "Mitigation":"- hearing protection to be worn when level exceeds 85db"
+   },
+   {
+      "Activity":"excavating verge and cofferdam working at height / access and egress.",
+      "Risk":" falls from height causing death / serious injury. working at height / access and egress.",
+      "Mitigation":"ensure all excavations are enclosed with red barriers / heras fencing and deep excavations have clear and visible warning signs. where required edge protection must be used, refer to apex or twd. the level of fencing required will be at least 950 mm high with a suitable height toe board i.e. 150mm high. intermediate rail(s) must be in place to leave no gap greater than 470 mm. suitable access and egress must be used where required e.g. wooden ladder. fall arrest must be used when access and egress an excavation which is 2m or greater. excavations not deeper that 2m may require fall arrest which must be assessed during the initial excavation inspection. excavations with suitable ramped access at both entry points may not require a fall arrest system but this must be agreed with the safety department."
+   },
+   {
+      "Activity":"excavating verge and cofferdam excavation depth.",
+      "Risk":" serious injury to site personnel. excavation depth.",
+      "Mitigation":"reference must be made to the bbus excavation procedure hs-pr-038 in regards to depth i.e. less than 1.2 m, 1.2 \u2013 2.0 m and over 2.0 m and the requirement to contact an authorised person (excavations) ap(ex), see national operational excavation management process (op-pm-210). temporary works will be installed as per approved design the ap(ex) will use the checklist at document hs-sf-105-ap(ex) to provide authorisation for the excavation and support works."
+   },
+   {
+      "Activity":"excavating verge and cofferdam collapse of excavation.",
+      "Risk":" fatality / serious injury. collapse of excavation.",
+      "Mitigation":"excavation works to stop if the excavation exceeds 1.2m and contact an apex. site specific apex design to be used when applicable. on completion of excavation works an initial excavation inspection report must be carried out and recorded before further works can take place. a visual inspection must be carried out prior to every working shift and further excavation inspection reports must be carried out and recorded every 7 days. any signs of excavation collapse must be reported to the site manager and an assessment of the ground conditions must be carried out prior to re-commencement of works. any ground or surface water must be pumped out of an excavation and the excavation visually inspected prior to works taking place. always check for obvious signs of contamination before pumping out any excavation."
+   },
+   {
+      "Activity":"excavating verge and cofferdam uu operatives / site security.",
+      "Risk":" death / serious injury uu operatives / site security.",
+      "Mitigation":"ensure uu ops do not access the works area by using heras fencing and red barriers. keep heras / barriers clipped at all times. ensure all gates are closed and locked after use."
+   },
+   {
+      "Activity":"excavating verge and cofferdam damage to underground / unknown services / known water main being excavated",
+      "Risk":" serious injuries / fatality to site personnel damage to underground / unknown services / known water main being excavated",
+      "Mitigation":"clear, concise and colour utility prints must be provided to a suitable scale of 1:500 for all and 1:250 for electricity. c.a.t and genny must be used to identify utilities. operative must be trained in use of c&g to npors standard. no power tool or mechanical excavator to be used within 500mm of a known service only use non-conductive hand tools whilst excavating dig to the side (undermine) until utilities are exposed following hse guidance (hsg47) all operatives will wear fire resistant clothing at all times while on site. ensure all services are supported adequately following hse guidance (hsg47). non-conductive support to be used on electric cables refer to united utilities standard conditions for works adjacent to pipelines when excavating"
+   },
+   {
+      "Activity":"excavating verge and cofferdam traffic interface",
+      "Risk":" operative struck by moving traffic death / serious injury to site personnel or members of public road traffic accidents traffic interface",
+      "Mitigation":"signing lighting and guarding in accordance with the red book. hi vis vest to be worn at all times operatives to stay within the designated working area where possible."
+   },
+   {
+      "Activity":"excavating verge and cofferdam slips, trips and falls",
+      "Risk":" serious injury to site personnel slips, trips and falls",
+      "Mitigation":"good housekeeping and removal of debris and equipment from areas in and around space will reduce potential for slips, trips and falls. barrier off space to prevent unauthorized or accidental entry. keep pedestrian walkway clear at all times."
+   },
+   {
+      "Activity":"excavating verge and cofferdam competency",
+      "Risk":" serious injury to site personnel competency",
+      "Mitigation":"prior to works taking place the site manager and team leader must ensure that all operatives carrying out working activities are competent to carry out that activity."
+   },
+   {
+      "Activity":"excavating verge and cofferdam new starters/ visitors attending site.",
+      "Risk":" unaware of 4 meter rule, plant and vehicle exclusion zones new starters/ visitors attending site.",
+      "Mitigation":"all new starters and visitors to site will receive a site specific nca induction. inductees will be made aware of pedestrian access routes, muster points and compliance with the four meter rule. visitors must be chaperoned at all times and will not be permitted onto site without the necessary supervision. new starters must be closely supervised until they become familiar with site rules and minimum expectations."
+   },
+   {
+      "Activity":"excavating verge and cofferdam noise - impact on employees and the public",
+      "Risk":" long term / short term hearing problems for both operatives and third parties disruption / inconvenience for members of public noise - impact on employees and the public",
+      "Mitigation":"ensure ear protection is available and worn restrict 'out-of-hours' work radios and engines switched-off and there is no unnecessary shouting. check that uu operations have been warned where practicable"
+   },
+   {
+      "Activity":"excavating verge and cofferdam manual handling - lifting of materials and equipment.",
+      "Risk":" varying severity of injury damage to materials and equipment manual handling - lifting of materials and equipment.",
+      "Mitigation":"ensure appropriate ppe is worn, avoid manual lifting, use lifting aids or get assistance. ensure you carry out a manual handling assessment ensure compaction tools are stored in the designated storage areas / vehicles"
+   },
+   {
+      "Activity":"excavating verge and cofferdam occupational health \u2013 welfare",
+      "Risk":" occupational health related disease such as leptospirosis, heat stroke, various cancers etc occupational health \u2013 welfare",
+      "Mitigation":"always maintain good hygiene practice and ensure hand wash facilities are used and in good order always carry leptospirosis cards ensure the appropriate ppe is worn at all times avoid skin contact with oils and diesels refer to coshh assessments prevent exposure of skin to sunlight and wear a suitable sun barrier creams in cold conditions rotate working patterns, wear appropriate ppe and take regular hot drinks in hot conditions rotate working patterns, wear appropriate ppe and take regular cool drinks"
+   },
+   {
+      "Activity":"excavating verge and cofferdam environment",
+      "Risk":" varying severity of injury damage to materials and equipment damage to the environment environment",
+      "Mitigation":"spill kits available. drip trays and plant nappies must be used for all plant items. any de-watering to be monitored and permits in place"
+   },
+   {
+      "Activity":"excavating verge and cofferdam material / fuel storage",
+      "Risk":" burns to operatives material / fuel storage",
+      "Mitigation":"use of flame retardant clothing and ppe no combustible materials to be stored near sources of ignition re-fuelling operations to be restricted to a designated area"
+   },
+   {
+      "Activity":"excavating verge and cofferdam possible contaminated land",
+      "Risk":" health issues for operatives working with land. possible contaminated land",
+      "Mitigation":"assessment of ground conditions carried out prior to work taking place. report produced and reviewed. operatives briefed on issues. tbt given on recognising asbestos incase any is found. trial holes to be classed as confined spaces \u2013 atmoshere will be monitored while digging. operatives will evacuate excavation immediately is monitor alarms."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change working in or near tx pen",
+      "Risk":" slips, trips & falls, leading to sprained ankles and or wrists.",
+      "Mitigation":"ensure work area is free from materials and items in the way of assembly. remove any debris."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change walking around site.",
+      "Risk":" moving around site \u2013 coming into contact with plant and vehicles. serious injury.",
+      "Mitigation":"ensure hi-vis ppe is worn. ensure safe distance is maintained from operating plant and vehicles. stick to pedestrian walkways and segregated areas. maintain good personal alertness of plant and vehicles. ensure speed limits are being adhered to."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change working in or near tx pen",
+      "Risk":" incorrect manual handling leading to back pain and or back injury.",
+      "Mitigation":"persons involved in works trained in manual handling procedures, and undertake trained methodology."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change working in tx pen",
+      "Risk":" restricted space around transformer, cables on bund floor possibly leading to slips and trips.",
+      "Mitigation":"ensure good personal awareness of area, be careful when walking over cables. take time when moving around over scaffold, if in doubt ask for assistance."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change working in or near tx pen \u2013 use of hand tools.",
+      "Risk":" using hand tools incorrectly resulting in sprains, cuts and or abrasions.",
+      "Mitigation":"ensure gloves are worn, have knowledge and experience of using hand tools. if unsure ask for instruction."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change working in or near tx pen - plant",
+      "Risk":" fuel oil spillage from plant / crane.",
+      "Mitigation":"use spill kits provided, ensure disposal is in line with relevant msds, and in correct packing ready for specialist disposal."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change working in or near tx pen \u2013 decanting and filling of oil.",
+      "Risk":" contact with used and fresh oil, maybe hazardous if swallowed and enters airways. harmful to aquatic life.",
+      "Mitigation":"wear overalls, eye protection, gloves, dust mask if splashing is a possibility, if ppe becomes contaminated remove as soon as possible, and dispose of clothing in appropriate waste container, disposal in line with msds via a licensed waste carrier. wash skin with soap and water. see msds for first aid measures if ingested. use bund to store oil drums during decanting procedure. ensure local spill kits are available for small spills. larger spills will be contained within transformer bund and dealt with by specialist contractor."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change working in or near tx pen \u2013 moving ibc\u2019s when filled",
+      "Risk":" movement by telehandler.",
+      "Mitigation":"ensure ibc\u2019s are properly sealed once full of used oil, ensure load is correctly loaded by telehandler. take time and do not rush whilst travelling with load. ibcs to be stored in external laydown area for collection be specialist contractor."
+   },
+   {
+      "Activity":"inspection for mechanical completion & oil change in tx pen 004",
+      "Risk":" hazard of incorrect use of dielectric test equipment",
+      "Mitigation":"only trained and competent personnel to use specialist test equipment. equipment to be tested and in good order before being used."
+   },
+   {
+      "Activity":"drilling & fixing work location",
+      "Risk":" slips, trips & falls, leading to sprained ankles and or wrists.",
+      "Mitigation":"ensure work area is free from materials and items in the way of assembly. remove any debris."
+   },
+   {
+      "Activity":"drilling & fixing walking around site.",
+      "Risk":" moving around site \u2013 coming into contact with plant and vehicles. serious injury.",
+      "Mitigation":"ensure hi-vis ppe is worn. ensure safe distance is maintained from operating plant and vehicles. stick to pedestrian walkways and segregated areas. maintain good personal alertness of plant and vehicles. ensure speed limits are being adhered to."
+   },
+   {
+      "Activity":"drilling & fixing work location",
+      "Risk":" incorrect manual handling leading to back pain and or back injury.",
+      "Mitigation":"persons involved in works trained in manual handling procedures, and undertake trained methodology."
+   },
+   {
+      "Activity":"drilling & fixing work location.",
+      "Risk":" using hand tools incorrectly resulting in sprains, cuts and or abrasions.",
+      "Mitigation":"ensure gloves are worn, have knowledge and experience of using hand tools. if unsure ask for instruction."
+   },
+   {
+      "Activity":"drilling & fixing work location",
+      "Risk":" inhalation and or contact of concrete dust.",
+      "Mitigation":"wear overalls, eye protection, gloves and appropriate dust mask. wash skin with soap and water. damp down concrete if dust becomes excessive and a risk to others."
+   },
+   {
+      "Activity":"drilling & fixing work location",
+      "Risk":" contact with epoxy chemical fixing grout.",
+      "Mitigation":"wear ppe, overalls, gloves, eye protection and helmet. if gloves become contaminated, dispose of and get new pair. avoid contact with skin, if this occurs wash with plenty of water. if in contact with eyes rinse continuously with water for several minutes if eye irritation occurs seek medical attention. do not ingest, if ingested rinse mouth and drink plenty of water and seek medical attention."
+   },
+   {
+      "Activity":"drilling & fixing work location.",
+      "Risk":" risk of entanglement in rotating drill / drill bit.",
+      "Mitigation":"remove any loose clothing before starting work. if hi vis waistcoat is removed, ensure it is refitted before walking around site."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane lifting into position of ohg crane",
+      "Risk":" slips, trips & falls, leading to sprained ankles and or wrists.",
+      "Mitigation":"ensure work area is free from materials and items in the way of assembly. remove any debris."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane lifting into position of ohg crane walking around site.",
+      "Risk":" moving around site \u2013 coming into contact with plant and vehicles. serious injury.",
+      "Mitigation":"ensure hi-vis ppe is worn. ensure safe distance is maintained from operating plant and vehicles. stick to pedestrian walkways and segregated areas. maintain good personal alertness of plant and vehicles. ensure speed limits are being adhered to."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh crane, unpacking components.",
+      "Risk":" incorrect manual handling leading to back pain and or back injury.",
+      "Mitigation":"persons involved in works trained in manual handling procedures, and undertake trained methodology."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh crane, craneage works.",
+      "Risk":" falling load, coming into contact with suspended load.",
+      "Mitigation":"persons not directly involved to move to safe zone whilst load is suspended. observe gas air horn signal, and upon hearing move directly to safe zone."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh crane, hand tools.",
+      "Risk":" using hand tools incorrectly resulting in sprains, cuts and or abrasions.",
+      "Mitigation":"ensure gloves are worn, have knowledge and experience of using hand tools. if unsure ask for instruction."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh crane, general assembly.",
+      "Risk":" trapped fingers between components.",
+      "Mitigation":"follow method statement, keep fingers out of entrapment points, follow assembly instructions."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh gantry crane",
+      "Risk":" fuel oil spillage from plant / crane.",
+      "Mitigation":"use spill kits provided, ensure disposal is in line with relevant msds, and in correct packing."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh gantry crane",
+      "Risk":" fire, caused by hands tools.",
+      "Mitigation":"gas monitoring on site by dlng, if al;arm sounds cease work immediately, go to evacuation muster point g. fire extinguisher available at works location."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh gantry crane, lifting operations.",
+      "Risk":" overloading / overturning of lifting appliance. overloading or incorrect of use of lifting gear. failure of lifting appliance / gear. crushing and or entrapment.",
+      "Mitigation":"documentation of lifting appliance and lifting equipment to be presented to site ehs for review. only use certified lifting equipment, marked with its s.w.l which is not overdue its examination and is in good order. once on site, the lifting supervisor must ensure that the lifting appliance and lifting equipment provided matches accompanying documentation/certification. lifting equipment, eg slings must be thoroughly inspected every 6 months, and be certified. lifting equipment to be checked by designated slinger/signaller and deemed in good order prior to using the lifting equipment for lifting duties. cranes to be set up on level ground as per lifting plan. exclusion zone to be set up for lifting operations. all loads irrespective of their shape or size are to be slung so that their centre of gravity falls immediately below the crane hook. use suitable packing to protect slings from damage by sharp edges of loads and do not allow lifting equipment to be damaged by being dropped or dragged under a load. endure lifting equipment is stored correctly. take care not to snatch or suddenly load, particularly in cold weather. never use makeshift, damaged or badly worn equipment. never list with chains shortened with knots, linked or twisted wire ropes."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh gantry crane, use of elephants feet supports.",
+      "Risk":" the potential for the oh gantry crane falling off unstable supports (elephants feet)",
+      "Mitigation":"ensure supports are located on firm even ground before loading with oh crane components."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane lifting into position of ohg crane",
+      "Risk":" slips, trips & falls, leading to sprained ankles and or wrists.",
+      "Mitigation":"ensure work area is free from materials and items in the way of assembly. remove any debris."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane lifting into position of ohg crane walking around site.",
+      "Risk":" moving around site \u2013 coming into contact with plant and vehicles. serious injury.",
+      "Mitigation":"ensure hi-vis ppe is worn. ensure safe distance is maintained from operating plant and vehicles. stick to pedestrian walkways and segregated areas. maintain good personal alertness of plant and vehicles. ensure speed limits are being adhered to."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of oh crane, unpacking components.",
+      "Risk":" incorrect manual handling leading to back pain and or back injury.",
+      "Mitigation":"persons involved in works trained in manual handling procedures, and undertake trained methodology."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane lifting into position of ohg crane craneage works.",
+      "Risk":" falling load, coming into contact with suspended load.",
+      "Mitigation":"persons not directly involved to move to safe zone whilst load is suspended. observe gas air horn signal, and upon hearing move directly to safe zone."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of long festoon \u2013 use of hand tools.",
+      "Risk":" using hand tools incorrectly resulting in sprains, cuts and or abrasions.",
+      "Mitigation":"ensure gloves are worn, have knowledge and experience of using hand tools. if unsure ask for instruction."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of long festoon \u2013 use of hand tools.",
+      "Risk":" trapped fingers between components.",
+      "Mitigation":"follow method statement, keep fingers out of entrapment points, follow assembly instructions."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane lifting into position of ohg crane",
+      "Risk":" fuel oil spillage from plant / crane.",
+      "Mitigation":"use spill kits provided, ensure disposal is in line with relevant msds, and in correct packing."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane assembly of long festoon \u2013 use of hand tools",
+      "Risk":" fire, caused by hands tools.",
+      "Mitigation":"gas monitoring on site by dlng, if alarm sounds cease work immediately, go to evacuation muster point g. fire extinguisher available at works location."
+   },
+   {
+      "Activity":"lifting into position of overhead gantry crane lifting of ohg crane, lifting operations.",
+      "Risk":" overloading / overturning of lifting appliance. overloading or incorrect of use of lifting gear. failure of lifting appliance / gear. crushing and or entrapment.",
+      "Mitigation":"documentation of lifting appliance and lifting equipment to be presented to site ehs for review. only use certified lifting equipment, marked with its s.w.l which is not overdue its examination and is in good order. once on site, the lifting supervisor must ensure that the lifting appliance and lifting equipment provided matches accompanying documentation/certification. lifting equipment, eg slings must be thoroughly inspected every 6 months, and be certified. lifting equipment to be checked by designated slinger/signaller and deemed in good order prior to using the lifting equipment for lifting duties. cranes to be set up on level ground as per lifting plan. exclusion zone to be set up for lifting operations. all loads irrespective of their shape or size are to be slung so that their centre of gravity falls immediately below the crane hook. use suitable packing to protect slings from damage by sharp edges of loads and do not allow lifting equipment to be damaged by being dropped or dragged under a load. endure lifting equipment is stored correctly. take care not to snatch or suddenly load, particularly in cold weather. never use makeshift, damaged or badly worn equipment. never list with chains shortened with knots, linked or twisted wire ropes."
+   },
+   {
+      "Activity":" ",
+      "Risk":" electrocution from contact with live electrical equipment (visual inspection of cable termination points, tracing internal cable cores)",
+      "Mitigation":"only control section of the sludge incomer mcc and inlet works mcc to be inspected. only eight2o authorised person (electrical) jess williamson to be permitted access into panels. ensure internal electrical equipment and terminals shrouded to ip2x, if not stop and reassess."
+   },
+   {
+      "Activity":" ",
+      "Risk":" accidental disturbance of cable cores whilst removing trunking lid covers to trace individual cores",
+      "Mitigation":"only eight2o authorised person (electrical) jess williamson to be permitted access into panels. extreme caution to be used whilst removing any trunking lids within control sections of the mcc\u2019s so individual cores can be traced to their point of termination ensure tw operator is present on site whilst tracing cores"
+   },
+   {
+      "Activity":" ",
+      "Risk":" disease through contact with sewage and vermin",
+      "Mitigation":"attendees to follow good hygiene practice and wear 5 point ppe whilst on site"
+   },
+   {
+      "Activity":" ",
+      "Risk":" risk of electrical burns in the event of a flashover",
+      "Mitigation":"arc retardant ppe to be worn by all operatives inspecting panels"
+   },
+   {
+      "Activity":" ",
+      "Risk":" lone working",
+      "Mitigation":"lone worker jess williamson to make contact with ron benton every half hour via mobile phone jess williamson to notify ron benton when entering and leaving new areas of work ensure phone is charged prior to work commencing"
+   },
+   {
+      "Activity":" ",
+      "Risk":" site traffic",
+      "Mitigation":"always use pedestrian walkways high visibility clothing to be worn at all times drivers to observe the site speed limit of 10mph only park in designated parking spaces"
+   },
+   {
+      "Activity":"removing original access and forming new access uu operatives / site security / public",
+      "Risk":" death / serious injury uu operatives / site security / public",
+      "Mitigation":"ensure uu ops do not access the works area by using heras fencing and red barriers. keep heras / barriers clipped at all times. ensure all gates are closed and locked after use."
+   },
+   {
+      "Activity":"removing original access and forming new access damage to underground / unknown serviced",
+      "Risk":" serious injuries / fatality to site personnel damage to underground / unknown serviced",
+      "Mitigation":"clear, concise and colour utility prints must be provided to a suitable scale of 1:500 for all and 1:250 for electricity. c.a.t and genny must be used to identify utilities. operative must be trained in use of c&g to npors standard. no power tool or mechanical excavator to be used within 500mm of a known service only use non-conductive hand tools whilst excavating dig to the side (undermine) until utilities are exposed following hse guidance (hsg47) all operatives will wear fire resistant clothing at all times while on site. ensure all services are supported adequately following hse guidance (hsg47). non-conductive support to be used on electric cables refer to united utilities standard conditions for works adjacent to pipelines when excavating"
+   },
+   {
+      "Activity":"removing original access and forming new access traffic interface",
+      "Risk":" operative struck by moving traffic death / serious injury to site personnel or members of public road traffic accidents traffic interface",
+      "Mitigation":"signing lighting and guarding/ 3 way lights in accordance with the red book. hi vis vest to be worn at all times operatives to stay within the designated working area where possible."
+   },
+   {
+      "Activity":"removing original access and forming new access slips, trips and falls",
+      "Risk":" serious injury to site personnel slips, trips and falls",
+      "Mitigation":"good housekeeping and removal of debris and equipment from areas in and around space will reduce potential for slips, trips and falls. barrier off space to prevent unauthorized or accidental entry. keep pedestrian walkway clear at all times."
+   },
+   {
+      "Activity":"removing original access and forming new access competency",
+      "Risk":" serious injury to site personnel competency",
+      "Mitigation":"prior to works taking place the site manager and team leader must ensure that all operatives carrying out working activities are competent to carry out that activity."
+   },
+   {
+      "Activity":"removing original access and forming new access ",
+      "Risk":"  ",
+      "Mitigation":" "
+   },
+   {
+      "Activity":"removing original access and forming new access noise - impact on employees and the public",
+      "Risk":" long term / short term hearing problems for both operatives and third parties disruption / inconvenience for members of public noise - impact on employees and the public",
+      "Mitigation":"ensure ear protection is available and worn restrict 'out-of-hours' work radios and engines switched-off and there is no unnecessary shouting. check that uu operations have been warned where practicable"
+   },
+   {
+      "Activity":"removing original access and forming new access manual handling - lifting of materials and equipment.",
+      "Risk":" varying severity of injury damage to materials and equipment manual handling - lifting of materials and equipment.",
+      "Mitigation":"ensure appropriate ppe is worn, avoid manual lifting, use lifting aids or get assistance. ensure you carry out a manual handling assessment ensure compaction tools are stored in the designated storage areas / vehicles"
+   },
+   {
+      "Activity":"removing original access and forming new access occupational health \u2013 welfare",
+      "Risk":" occupational health related disease such as leptospirosis, heat stroke, various cancers etc occupational health \u2013 welfare",
+      "Mitigation":"always maintain good hygiene practice and ensure hand wash facilities are used and in good order always carry leptospirosis cards ensure the appropriate ppe is worn at all times avoid skin contact with oils and diesels refer to coshh assessments prevent exposure of skin to sunlight and wear a suitable sun barrier creams in cold conditions rotate working patterns, wear appropriate ppe and take regular hot drinks in hot conditions rotate working patterns, wear appropriate ppe and take regular cool drinks"
+   },
+   {
+      "Activity":"removing original access and forming new access environment",
+      "Risk":" varying severity of injury damage to materials and equipment damage to the environment environment",
+      "Mitigation":"spill kits available. drip trays and plant nappies must be used for all plant items. any de-watering to be monitored and permits in place"
+   },
+   {
+      "Activity":"removing original access and forming new access material / fuel storage",
+      "Risk":" burns to operatives material / fuel storage",
+      "Mitigation":"use of flame retardant clothing and ppe no combustible materials to be stored near sources of ignition re-fuelling operations to be restricted to a designated area"
+   },
+   {
+      "Activity":"removing original access and forming new access possible contaminated land",
+      "Risk":" health issues for operatives working with land. possible contaminated land",
+      "Mitigation":"assessment of ground conditions carried out prior to work taking place. report produced and reviewed. operatives briefed on issues. tbt given on recognising asbestos incase any is found. trial holes to be classed as confined spaces \u2013 atmoshere will be monitored while digging. operatives will evacuate excavation immediately is monitor alarms."
+   }
+]
